@@ -21,12 +21,10 @@
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,13 +71,13 @@
 const gupta = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: ["Full-Stack Development", "Open Source", "System Design"],
-    learning: ["AI/ML", "DevOps", "Microservices"],
+    currentFocus: ["Full-Stack Development", "Open Source", "DSA"],
+    learning: ["Springboot", "DevOps", "Microservices"],
     hobbies: ["Coding", "Reading Tech Blogs", "Contributing to OSS"],
     askMeAbout: ["Web Dev", "JavaScript", "React", "Node.js", "Problem Solving"],
     technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Node.js", "Express", "Python", "FastAPI"],
+        frontend: ["React", "Vue.js", "TypeScript"],
+        backend: ["Node.js", "Express", "Springboot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         tools: ["Docker", "Git", "VS Code", "Postman"]
     },
