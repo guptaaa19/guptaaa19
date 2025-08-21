@@ -1,4 +1,4 @@
-# Hi there, I'm Gupta! 👋
+# Hi there, I'm Srishti! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Building+Amazing+Software;Always+Learning+New+Things" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 - 💻 Passionate **Full-Stack Developer** with expertise in modern web technologies
 - 🎯 Building scalable applications and contributing to open source
-- 🌱 Currently exploring **AI/ML**, **DevOps**, and **System Design**
+- 🌱 Currently exploring **Springboot**, **DevOps**, and **Data Structures and Algorithm**
 - ⚡ Love solving complex problems and creating elegant solutions
 - 🎮 Fun fact: I debug with coffee and solve problems with music!
 
@@ -91,10 +91,9 @@ const gupta = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti06/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtigupta190202@gmail.com)
 
 </div>
 
